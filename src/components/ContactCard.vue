@@ -5,6 +5,7 @@ export default {
     },
 };
 </script>
+
 <template>
     <div>
         <div class="p-1">
@@ -30,3 +31,4 @@ export default {
         </div>
     </div>
 </template>
+    
